@@ -1,4 +1,4 @@
-package com.brodev.railway_reservation_api;
+package com.brodev.railwayreservationapi;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
